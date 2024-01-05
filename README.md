@@ -1,2 +1,2 @@
 # practice
-practiing questions 
+practicing questions 
